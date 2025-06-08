@@ -35,3 +35,15 @@ Shows a summary of key business numbers from all areas.
 Displays important trends like profit, revenue, and market share over time.
 
 Helps top managers quickly understand overall company performance.
+## 💡Skills
+
+Learnt Power BI fundamentals
+creating calcualting columns and DAX measures
+Data Modelling ,data validation techniques and using KPI indicators
+using bookmarks to switch between two visuals and conditional formatting
+page navigation with buttons
+using tooltips to save page area
+Dynamic titles based on the applied filters
+PowerBI services for publishing and sharing reports online
+Auto refresh setup for data through gateway
+Creating date table using M language
